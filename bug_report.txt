@@ -1,5 +1,5 @@
 Bug_id: 1
-Title: “Add widget” button function is not working on device"
+Title: “Add widget” button function is not working on device
 Severity: blocker 
 Priority: high
 Environment: Xiaomi Redmi Note 9, Android 10 QP1A.190711.020, MIUI  global 12.0.6
